@@ -23,7 +23,7 @@
     "css-url-rewriter": "^0.1.0",
     "gulp-util": "^3.0.3",
     "path": "^0.11.14",
-    "soup": "^0.1.3",
+    "soup": "amarnus/soup",
     "through2": "^0.6.3"
   },
   "devDependencies": {
